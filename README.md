@@ -3,7 +3,7 @@
 
 ### Tech Stack
 * HTML, CSS, JavaScript
-* PHP, SQL
+* PHP, MySQL
 * ReactJS, Express, MongoDB, NodeJS
 * Git
 * REST APIs
