@@ -3,14 +3,15 @@
 
 ### Tech Stack
 * HTML, CSS, JavaScript
-* PHP, MySQL
-* ReactJS, Express, MongoDB, NodeJS
+* PHP, MySQL, CodeIgniter, WordPress
+* ReactJS, Express, MongoDB, NodeJS, Firebase
 * Git
 * REST APIs
 
 ### Some Projects
 * [Beachbum Online Store](https://www.beachbum.in/)
-* [Retail Barcode Label Printer](https://retail-barcode-label.netlify.app/)
+* [B-Top Property Buy Sale](https://btop.in/)
+
 
 ### You can reach me on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrdumog/)
@@ -19,8 +20,9 @@
 
 
 ### :blush:  I'm currently working on
-* [Budget Management Webapp]
-* [Resume Maker Webapp]
+* [Retail Barcode Label Printer](https://retail-barcode-label.netlify.app/)
+* Budget Management Webapp
+* Resume Maker Webapp
 
 
 <!--
