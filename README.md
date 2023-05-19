@@ -4,7 +4,7 @@
 ### Tech Stack
 * HTML, CSS, JavaScript
 * PHP, MySQL, CodeIgniter, WordPress
-* ReactJS, Express, MongoDB, NodeJS, Firebase
+* ReactJs, Express, MongoDB, NodeJs, Firebase
 * Git
 * REST APIs
 
