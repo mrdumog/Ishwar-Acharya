@@ -21,8 +21,9 @@
 
 ### :blush:  I'm currently working on
 * [Retail Barcode Label Printer](https://retail-barcode-label.netlify.app/)
-* Budget Management Webapp
-* Resume Maker Webapp
+* Resume Maker Web App
+* Budget Management Web App
+
 
 
 <!--
